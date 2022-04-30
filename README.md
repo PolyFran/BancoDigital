@@ -4,5 +4,5 @@ Criando um Projeto no Bootcamp GFT Start Woman Java de um Banco Digital na lingu
 Transações realizadas:
 * Saques limitados
 * Depósitos limitados
-* Transferencias entre contas Correntes e Poupança.
+* Transferencias entre conta Corrente e Poupança.
 * Extrato de Conta Corrente e Poupança
