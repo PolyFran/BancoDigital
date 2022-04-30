@@ -1,3 +1,8 @@
-# BancoDigital
+# Banco Digital
 
-Criando um Banco Digital em Java e Orientação a Objetos para a realização de transações bancárias, com possibilidades de saques, depósitos e tranaferencias entre contas poupanças e correntes.
+Criando um Projeto no Bootcamp GFT Start Woman Java de um Banco Digital na linguagem de programação Java utilizando os pilares da Orientação a Objetos.
+Transações realizadas:
+* Saques limitados
+* Depósitos limitados
+* Transferencias entre contas Correntes e Poupança.
+* Extrato de Conta Corrente e Poupança
